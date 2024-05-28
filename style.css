@@ -1,0 +1,33 @@
+.card {
+    border-style: solid;
+    border-color: gray;
+    width: 500px;
+    margin: 100px 400px;
+    display:flex;
+    flex-direction: column;
+}
+img{
+    height: 80px;
+    width: 80px;
+    margin-left: 20px;
+    padding-top: 40px;
+    margin-bottom: -40px;
+}
+.img {
+    background-color: lightskyblue;
+    size: 500px 84px;
+}
+h2{
+    margin: 50px 20px 5px 20px;
+}
+h3{
+    margin: 5px 20px;
+}
+p{
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.edit{
+    margin: 20px;
+}
